@@ -1,0 +1,7 @@
+{
+  "name": "ionic-taborno",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
